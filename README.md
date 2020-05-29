@@ -1,5 +1,8 @@
 # Frap-Ray-Zorcher
 
+## Insparation
+This game is based of of Spaceman Spiff an alter ego of Calvin from Calvin and Hobbes.
+
 ## Keybinds
 |Key       |Use                    |
 |----------|-----------------------|
@@ -14,3 +17,9 @@
 |G         |Arm/Throw Demise-O-Bomb|
 |Tab       |Grab/Repair            |
 |Backspace |Toggle Headlamp        |
+
+## Credits
+Unity (The game engine)
+Bill Watterson (Calvin and hobbes)
+https://3dtextures.me/2020/02/03/rock-039/ (Rock Normal Map)
+https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503 (Skyboxes)
