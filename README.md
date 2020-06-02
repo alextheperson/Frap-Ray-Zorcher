@@ -1,6 +1,6 @@
 # Frap-Ray-Zorcher
 
-## Insparation
+## Inspiration
 This game is based of of Spaceman Spiff, an alter ego of Calvin from Calvin and Hobbes.
 
 ## Keybinds
@@ -17,6 +17,13 @@ This game is based of of Spaceman Spiff, an alter ego of Calvin from Calvin and 
 |G         |Arm/Throw Demise-O-Bomb|
 |Tab       |Grab/Repair            |
 |Backspace |Toggle Headlamp        |
+
+## Planned Features
+These are planned features (In order of priority).
+ 1. A second level
+ 1. Story text
+ 1. Main menu
+ 
 
 ## Credits
  * Unity (The game engine)
