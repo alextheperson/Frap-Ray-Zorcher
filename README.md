@@ -1,7 +1,7 @@
 # Frap-Ray-Zorcher
 
 ## Insparation
-This game is based of of Spaceman Spiff an alter ego of Calvin from Calvin and Hobbes.
+This game is based of of Spaceman Spiff, an alter ego of Calvin from Calvin and Hobbes.
 
 ## Keybinds
 |Key       |Use                    |
