@@ -20,10 +20,10 @@ This game is based of of Spaceman Spiff, an alter ego of Calvin from Calvin and 
 
 ## Planned Features
 These are planned features (In order of priority).
- 1. A second level
+ 1. A new kind of level
      1. Space Ships Model
      1. Space Ship Code
- 1. Main menu
+ 1. <s>Main menu</s>
  1. Story text
  
 
